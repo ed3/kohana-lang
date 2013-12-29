@@ -7,7 +7,11 @@ How it works
 ------------
 
 Language is included in url.
+
+Always show the parameter lang.
+
 No Coookie.
+
 For default language running without language and with language.
 
 
