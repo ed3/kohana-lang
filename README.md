@@ -1,8 +1,6 @@
 Kohana-lang
 ===========
 
-Kohana lang module
-
 required: Kohana 3.2.x
 
 How it works
