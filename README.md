@@ -10,7 +10,7 @@ Language is included in url.
 
 Always show the parameter lang.
 
-No Coookie.
+No Cookie.
 
 For default language running without language and with language.
 
