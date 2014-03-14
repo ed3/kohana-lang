@@ -19,4 +19,8 @@ class Request extends Kohana_Request {
 		$uri = preg_replace("/^".Request::$lang."\/|^".Request::$lang."$/", '\\0', $uri);
 		return parent::factory($uri, $cache, $injected_routes);
 	}
+	public function redirect($url = '', $code = 302) {
+		$url = Request::$lang.'/'.ltrim($url, '/');
+		parent::redirect($url);
+	}
 }
