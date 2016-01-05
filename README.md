@@ -1,7 +1,7 @@
 Kohana-lang
 ===========
 
-Kohana language for Kohana-3.3
+Kohana language for Kohana-3.x
 
 How it works
 ------------
